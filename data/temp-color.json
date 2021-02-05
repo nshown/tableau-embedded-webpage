@@ -1,0 +1,30 @@
+[
+  {
+    "color": "red", 
+    "votes": 62
+  }, 
+  {
+    "color": "orange", 
+    "votes": 24
+  }, 
+  {
+    "color": "yellow", 
+    "votes": 29
+  }, 
+  {
+    "color": "green", 
+    "votes": 18
+  }, 
+  {
+    "color": "blue", 
+    "votes": 44
+  }, 
+  {
+    "color": "black", 
+    "votes": 64
+  }, 
+  {
+    "color": "pink", 
+    "votes": 48
+  }
+]
