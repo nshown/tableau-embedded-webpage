@@ -14,7 +14,7 @@ To add a Tableau visualization to a webpage you can complete the following steps
 
 * After saving to Tableau Public your web browser will open to your visualizations page on Tableau Public, it will look like [this](https://public.tableau.com/views/ColorData/VotesforFavoriteColor?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).  If your web browser does not open to your published visualization you can find it by logging into your Tableau Public account, viewing your profile, and selecting the visualization that you wish to share.
 
-* Once you have browsed to your visualization select the "Share" icon in the bottom left corner of your visualization.
+* Once you have browsed to your visualization select the "Share" icon in the bottom right corner of your visualization.
   
     ![Share Visualization](images/share-visualization.png "Share Visualization")
 
